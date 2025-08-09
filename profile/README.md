@@ -2,44 +2,28 @@
 
 ## Autores
 
-<div align="center">
-  <div style="display:inline-block; width:280px; margin:12px; vertical-align:top; text-align:center;">
-    <img
-      src="https://github.com/MorettiGS.png?size=280"
-      alt="Gabriel Moretti — portrait"
-      width="160" height="160"
-      style="border-radius:50%; object-fit:cover; display:block; margin:0 auto 10px;"
-    />
-    <div>
-      <strong>Gabriel Moretti</strong><br>
-      <em style="color:#555; font-size:0.95rem;">Graduando em Engenharia de Software — UnB</em>
-    </div>
-    <div style="margin-top:8px; font-size:0.95rem;">
-      <a href="https://github.com/MorettiGS">GitHub</a>
-      <span>  •  </span>
-      <a href="https://www.linkedin.com/in/MorettiGS">LinkedIn</a>
-    </div>
-  </div>
-
-  <!-- Card 2 -->
-  <div style="display:inline-block; width:280px; margin:12px; vertical-align:top; text-align:center; justify-content: center">
-    <img
-      src="https://github.com/AdneMoretti.png?size=280"
-      alt="Partner Name — portrait"
-      width="160" height="160"
-      style="border-radius:50%; object-fit:cover; display:block; margin:0 auto 10px;"
-    />
-    <div>
-      <strong>Adne Moretti</strong><br>
-      <em style="color:#555; font-size:0.95rem;">Graduand1 em Engenharia de Software — UnB</em>
-    </div>
-    <div style="margin-top:8px; font-size:0.95rem;">
-      <a href="https://github.com/AdneMoretti">GitHub</a>
-      <span>  •  </span>
-      <a href="https://www.linkedin.com/in/adne-moretti-b4875b1b0/">LinkedIn</a>
-    </div>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="320">
+      <img
+        src="https://github.com/MorettiGS.png?size=280"
+        alt="Gabriel Moretti"
+        style="width:160px; height:160px; border-radius:50%; object-fit:cover; display:block; margin:0 auto 10px;"
+      />
+      <p><strong>Gabriel Moretti</strong><br><em>Graduando em Engenharia de Software (UnB)</em></p>
+      <p><a href="https://github.com/MorettiGS">GitHub</a> • <a href="https://www.linkedin.com/in/MorettiGS">LinkedIn</a></p>
+    </td>
+    <td align="center" width="320">
+      <img
+        src="https://github.com/AdneMoretti.png?size=280"
+        alt="Adne Moretti"
+        style="width:160px; height:160px; border-radius:50%; object-fit:cover; display:block; margin:0 auto 10px;"
+      />
+      <p><strong>Adne Moretti</strong><br><em>Graduanda em Engenharia de Software (UnB)</em></p>
+      <p><a href="https://github.com/AdneMoretti">GitHub</a> • <a href="https://www.linkedin.com/in/adne-moretti-b4875b1b0/">LinkedIn</a></p>
+    </td>
+  </tr>
+</table>
 
 ## Objetivo
 
